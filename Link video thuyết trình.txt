@@ -1,1 +1,2 @@
+Link này bao gồm video thuyết trình và project minh hoạ cho phần mềm quản lý điểm sinh viên được viết bằng C# ứng dụng winform có kết nối cơ sở dữ liệu SQL Server.
 https://drive.google.com/file/d/1-fK8Xj4W9VP6EzMrZoB7FtWhIYSV8tTT/view?usp=sharing
